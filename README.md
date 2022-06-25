@@ -24,7 +24,7 @@ I'm a high school student and I'm currently learning: Delphi, Lua, Java, HTML, C
 <br>
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=tanyagupta0201&theme=react-dark)
+![github graph](https://activity-graph.herokuapp.com/graph?username=Fernando-F-F&theme=react-dark)
 
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=tanyagupta0201&theme=dark&hide_border=false" width = 500>
