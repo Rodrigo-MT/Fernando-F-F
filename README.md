@@ -28,7 +28,7 @@ I'm a high school student and I'm currently learning: Delphi, Lua, Javascript, H
 <br>
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&theme=dark" >
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&theme=blue" >
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=Fernando-F-F&theme=dark&hide_border=false" width = 500>
 
