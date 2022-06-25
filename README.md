@@ -30,16 +30,16 @@ I'm a high school student and I'm currently learning: Delphi, Lua, Javascript, H
 <br>
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&theme=dark&title_color=000099" >
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&theme=github_dark&title_color=000099" >
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=Fernando-F-F&theme=dark&hide_border=false" width = 500>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=Fernando-F-F&theme=github_dark&hide_border=false" width = 500>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=Fernando-F-F&theme=react-dark)
-
-
+![github graph](https://activity-graph.herokuapp.com/graph?username=Fernando-F-F&theme=github-dark)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="000099")](https://github.com/Fernando-F-F)
 
 
 
