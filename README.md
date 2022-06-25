@@ -29,10 +29,10 @@ I'm a high school student and I'm currently learning: Delphi, Lua, Java, HTML, C
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&theme=dark)](https://github.com/Fernando-F-F/github-readme-stats)
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=Fernando-F-F1&theme=dark&hide_border=false" width = 500>
 ![github graph](https://activity-graph.herokuapp.com/graph?username=Fernando-F-F&theme=react-dark)
 
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=tanyagupta0201&theme=dark&hide_border=false" width = 500>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&show_icons=true&theme=dark" width =500>
 
 
