@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/tanyagupta.pg@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:tanyagupta.pg@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
 
-I'm a high school student and I'm currently learning: Java, HTML, CSS and Lua..  <br> 
+I'm a high school student and I'm currently learning: Java, HTML, CSS and Lua.  <br> 
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
 
