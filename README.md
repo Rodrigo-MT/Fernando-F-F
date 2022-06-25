@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2480CD&height=300&section=header&text=Welcome!%20&animation=fadeIn&&fontColor=041421&fontAlign=70&fontSize=90)
 
-<h1>Hey there, I'm <a  href="https://github.com/Fernando-F-F/">Fernando </a>
+<h1>Hey there, I'm <a  href="https://github.com/Fernando-F-F/">Fernando </a> />
 
 I'm a high school student and <br>
 I'm currently learning: Delphi, Lua, Javascript, HTML and CSS.  <br> 
