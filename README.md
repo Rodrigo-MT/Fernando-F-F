@@ -30,7 +30,7 @@ I'm a high school student and I'm currently learning: Delphi, Lua, Java, HTML, C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&theme=dark)](https://github.com/Fernando-F-F/github-readme-stats)
 
-<br>
+</p>
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=Fernando-F-F1&theme=dark&hide_border=false" width = 500>
 
