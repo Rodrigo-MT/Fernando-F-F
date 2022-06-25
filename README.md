@@ -5,7 +5,6 @@
 I'm a high school student and <br>
 I'm currently learning: Delphi, Lua, Javascript, HTML and CSS.  <br> 
 
-<img align='right' src="" width="250" height="210">
 
 
 <br>
