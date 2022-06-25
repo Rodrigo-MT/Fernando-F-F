@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=transparent&color=000099&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <h1>Hey there, I'm <a  href="https://github.com/Fernando-F-F/">Fernando </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
 
 I'm a high school student and I'm currently learning: Delphi, Lua, Javascript, HTML and CSS.  <br> 
