@@ -6,7 +6,7 @@ I'm a high school student and I'm currently learning: Delphi, Lua, Javascript, H
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Database:</h3>
 
 <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" /> </a>  
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> </a> 
