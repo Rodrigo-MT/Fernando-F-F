@@ -31,8 +31,7 @@ I'm currently learning: Delphi, Lua, Javascript, HTML and CSS.  <br>
 <br>
 
 
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&theme=github_dark&hide_border=true&show_icons=true" >
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&layout=compact&theme=github_dark&hide_border=true" >
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&layout=compact&theme=github_dark&hide_border=true&show_icons=true" >
 <img src= "https://github-readme-stats.vercel.app/api?username=Fernando-F-F&theme=github_dark&hide_border=true&show_icons=true" />
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=Fernando-F-F&theme=github-dark-blue&hide_border=true&show_icons=true" width = 500>
 <img src = "https://activity-graph.herokuapp.com/graph?username=Fernando-F-F&theme=react-dark" >
