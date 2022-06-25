@@ -33,7 +33,7 @@ I'm a high school student and I'm currently learning: Delphi, Lua, Javascript, H
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&theme=github_dark&hide_border=true&show_icons=true" >
 <img src= "https://github-readme-stats.vercel.app/api?username=Fernando-F-F&theme=github_dark&hide_border=true&show_icons=true" />
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=Fernando-F-F&theme=github_dark&hide_border=true&show_icons=true" width = 500>
-<img src = "https://activity-graph.herokuapp.com/graph?username=Fernando-F-F&theme=react_dark" >
+<img src = "https://activity-graph.herokuapp.com/graph?username=Fernando-F-F&theme=react-dark" >
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="000099")](https://github.com/Fernando-F-F)
