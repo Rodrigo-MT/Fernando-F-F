@@ -12,7 +12,7 @@ I'm a high school student and I'm currently learning: Delphi, Lua, Java, HTML, C
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"><a <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" alt="c" width="50" height="50"/> </a>  
+<p align="left"><a <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" /> </a>  
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="50"/></a>   
 <a href="https://kotlinlang.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="45"/> </a> <a   
