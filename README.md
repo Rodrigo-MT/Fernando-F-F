@@ -30,7 +30,7 @@ I'm a high school student and I'm currently learning: Delphi, Lua, Javascript, H
 <br>
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&theme=github_dark&show_icons=true" >
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&theme=github_dark&hide_border=true&show_icons=true" >
 <img src= "https://github-readme-stats.vercel.app/api?username=Fernando-F-F&theme=github_dark&hide_border=true&show_icons=true" />
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=Fernando-F-F&theme=github_dark&hide_border=true" width = 500>
 
