@@ -7,10 +7,6 @@
 I'm a high school student and I'm currently learning: Java, HTML, CSS and Lua..  <br> 
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
-- 🌱 I’m currently focusing on **Android Development** and practicing **Data Structures and Algorithms** everyday.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
-- ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
--  Show some ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
 <br>
 
