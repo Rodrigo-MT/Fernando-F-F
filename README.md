@@ -17,6 +17,8 @@ I'm a high school student and I'm currently learning: Delphi, Lua, Javascript, H
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /> </a>
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> </a>
 
+<h3 align="left">Languages and Tools:</h3>
+
 
 
 <br>
