@@ -1,4 +1,3 @@
-<img src "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" >
 <h1>Hey there, I'm <a  href="https://github.com/Fernando-F-F/">Fernando </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
 
 I'm a high school student and I'm currently learning: Delphi, Lua, Javascript, HTML and CSS.  <br> 
