@@ -28,7 +28,7 @@ I'm a high school student and I'm currently learning: Delphi, Lua, Java, HTML, C
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&theme=dark)](https://github.com/Fernando-F-F/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&theme=react-dark)](https://github.com/Fernando-F-F/github-readme-stats)
 ![github graph](https://activity-graph.herokuapp.com/graph?username=Fernando-F-F&theme=react-dark)
 
 
