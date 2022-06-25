@@ -26,7 +26,7 @@ I'm a high school student and I'm currently learning: Delphi, Lua, Java, HTML, C
 
 <br>
 <br>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&theme=dark)](https://github.com/Fernando-F-F/github-readme-stats)
 ![github graph](https://activity-graph.herokuapp.com/graph?username=Fernando-F-F&theme=react-dark)
 
 
@@ -34,8 +34,6 @@ I'm a high school student and I'm currently learning: Delphi, Lua, Java, HTML, C
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&show_icons=true&theme=dark" width =500>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&theme=dark)](https://github.com/Fernando-F-F/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
 
