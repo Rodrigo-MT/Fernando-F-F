@@ -31,7 +31,7 @@ I'm a high school student and I'm currently learning: Delphi, Lua, Javascript, H
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-F-F&theme=dark)](https://github.com/Fernando-F-F/github-readme-stats)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
 
 
