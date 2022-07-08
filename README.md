@@ -38,7 +38,7 @@ I'm currently learning: Delphi, Lua, Javascript, HTML and CSS.  <br>
 <img src = "https://activity-graph.herokuapp.com/graph?username=Fernando-F-F&theme=react-dark" >
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!&center=true&color="2480CD")](https://github.com/Fernando-F-F)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!&center=true&color="2859a6")](https://github.com/Fernando-F-F)
 
 
 
